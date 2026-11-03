@@ -2,3 +2,4 @@ components/
 .venv/
 __pycache__/
 generatedResumes/
+.tools/
