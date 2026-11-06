@@ -1,0 +1,11 @@
+\resumeProjectHeading
+      {\textbf{CPU Architecture}}{Mar. 2026 -- May 2026}
+      \resumeItemListStart
+        \resumeItem{Engineered RISC CPU in \textbf{Verilog}, defining operational 
+        phases via 
+        a direct state machine for precise timing control.}
+        \resumeItem{Optimized data path by modifying hardware logic to load constants 
+        directly into registers, bypassing standard MUX/PC inputs. Achieved a \textbf{15\%}}
+         reduction in clock cycles per instruction and a \textbf{10MHz} increase in maximum 
+         clock frequency.
+      \resumeItemListEnd

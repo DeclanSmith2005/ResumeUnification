@@ -1,0 +1,9 @@
+\resumeSubheading
+      {Amazon}{Toronto, ON, Canada}
+      {Software Development Engineer Intern, Amazon Kids}{Sept. 2026 -- Dec. 2026}
+      \resumeItemListStart
+        \resumeItem{Parallelized retrieval and cached responses, cutting mean recommendation row render latency from \textbf{490 to 200\,ms (59\%)} across 1,000 staging page loads.}
+        \resumeItem{Bounded concurrent Java Spring/GraphQL requests and added timeouts and content versioned cache keys to preserve content freshness.} 
+	\resumeItem{Jan. 2026 \textbf{prod} rollout of Prime recommendation rows and content search in the Kids+ app to \textbf{50,000+ users}.}
+        \resumeItem{Automated service provisioning with \textbf{AWS CDK} and \textbf{CloudFormation} plus \textbf{CI} configuration checks, reducing staging setup from \textbf{30 to 8 minutes} and manual deployment steps from \textbf{six} to \textbf{two}.}
+      \resumeItemListEnd

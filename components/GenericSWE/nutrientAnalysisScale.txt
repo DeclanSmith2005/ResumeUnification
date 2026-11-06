@@ -1,0 +1,9 @@
+\resumeProjectHeading
+      {\textbf{Nutrient Analysis Scale}}{}
+      \resumeItemListStart
+        \resumeItem{Developed a \textbf{Flask} dashboard to provide \textbf{sub 50ms} 
+        updates as food is added to the scale.}
+        \resumeItem{Triggered \textbf{Edamam API} requests via Raspberry Pi and calculated 
+        macronutrient information dynamically by identifying food type with 
+        \textbf{AWS Rekognition}.}
+      \resumeItemListEnd

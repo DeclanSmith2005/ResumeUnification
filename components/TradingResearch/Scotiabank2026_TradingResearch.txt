@@ -1,0 +1,11 @@
+% Draft specialty component. Review proposed details before submitting.
+% REVIEW comments refer to REVIEW_NOTES.md and do not print in the PDF.
+\resumeSubheading
+      {Scotiabank}{Toronto, ON, Canada}
+      {Software Engineering Intern, Velocity Program}{May 2026 to Aug. 2026}
+      \resumeItemListStart
+        % REVIEW T03: Confirm the persistence mechanism and consistency guarantees. Do not interpret this as an automated research or backtesting engine; the application was onboarding.
+        \resumeItem{Built a \textbf{Python DAG} engine for dependent onboarding tasks, combining \textbf{topological sorting} with persisted completion state to produce consistent workflow progression.}
+        % REVIEW T04: Deterministic test fixtures, reproducible failure environments, and schema validation tests are proposed. The listed implementation tools and leadership are established.
+        \resumeItem{Led backend development with \textbf{SQLAlchemy} and \textbf{Alembic}, adding deterministic test fixtures and \textbf{Docker} environments to reproduce workflow failures and validate schema changes.}
+      \resumeItemListEnd

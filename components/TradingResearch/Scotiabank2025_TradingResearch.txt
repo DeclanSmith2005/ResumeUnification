@@ -1,0 +1,11 @@
+% Draft specialty component. Review proposed details before submitting.
+% REVIEW comments refer to REVIEW_NOTES.md and do not print in the PDF.
+\resumeSubheading
+      {Scotiabank}{Toronto, ON, Canada}
+      {Software Engineering Intern, Velocity Program, KYC Team}{May 2025 to Aug. 2025}
+      \resumeItemListStart
+        % REVIEW T05: Confirm that database backed data retrieval was the part you optimized. The migration and latency figures are retained, without claiming market data experience.
+        \resumeItem{Optimized database backed data retrieval during a \textbf{Java Spring Boot} KYC migration, reducing average endpoint latency from \textbf{128}\,ms to \textbf{27}\,ms.}
+        % REVIEW T06: Missing, duplicate, and out of order record checks are proposed test cases. Confirm which cases the original tests actually covered.
+        \resumeItem{Validated \textbf{Oracle SQL} log processing through \textbf{50+ JUnit} regression tests and \textbf{Splunk} traces, isolating missing, duplicate, and out of order records.}
+      \resumeItemListEnd

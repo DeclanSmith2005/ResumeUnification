@@ -1,0 +1,6 @@
+\resumeProjectHeading
+      {\textbf{Quackston Autonomous Vehicle} $|$ C++, Linux, ZeroMQ}{Jan. 2024 -- Apr. 2024}
+      \resumeItemListStart
+        \resumeItem{Profiled C++ Dijkstra routing with \textbf{Linux perf}; reused heap and distance buffers to cut p99 route time from \textbf{8.1 to 4.6\,ms} across 10,000 queries on a 1,000-node graph; validated paths against a reference solver.}
+        \resumeItem{Separated ZeroMQ ingestion from planning with a bounded queue that coalesces stale positions; held \textbf{p99 receipt-to-state-update latency below 1\,ms} at 1,000 messages/s on a 2-vCPU VPS, excluding network transit.}
+      \resumeItemListEnd

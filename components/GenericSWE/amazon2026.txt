@@ -1,0 +1,16 @@
+\resumeSubheading
+      {Amazon}{Toronto, ON, Canada}
+      {Software Development Engineer Intern, Amazon Kids}{Sept. 2026 to Dec. 2026}
+      \resumeItemListStart
+        \resumeItem{Developing \textbf{GraphQL} operations and \textbf{Java Spring}
+        endpoints to retrieve Amazon Prime content and surface it in the
+        Amazon Kids+ Parent Dashboard(PD).}
+\resumeItem{Reduced average content rendering latency by approximately
+        \textbf{59\%}, from \textbf{490}\,ms to \textbf{200}\,ms, by parallelizing
+        batched calls and caching metadata hydration API responses.}
+\resumeItem{Building \textbf{React} frontend components to render dynamically
+retrieved Amazon Prime content in PD.}
+		\resumeItem{Preparing a Dec 2026 production launch using \textbf{CI/CD} infrastructure to deliver the integration to \textbf{50,000+ users globally}.}
+      \resumeItemListEnd
+
+

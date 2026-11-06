@@ -1,0 +1,12 @@
+\resumeSubheading
+      {Scotiabank}{Toronto, ON, Canada}
+      {Software Engineering Intern, Velocity Program}{May 2026 -- Aug. 2026}
+      \resumeItemListStart
+        \resumeItem{Architected a \textbf{Python} microservice backend for an enterprise 
+        onboarding application as the lead engineer for a team of interns, utilizing 
+        \textbf{SQLAlchemy}, \textbf{PostgreSQL}, \textbf{Alembic}, and \textbf{Docker} 
+        on \textbf{Microsoft Azure}.}
+        \resumeItem{Engineered a custom topological sort algorithm to dynamically resolve 
+        Directed Acyclic Graphs (DAGs) of complex task dependencies, optimizing real time 
+        progression tracking and state management.}
+      \resumeItemListEnd

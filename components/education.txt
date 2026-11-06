@@ -1,0 +1,9 @@
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Queen's University}{Kingston, ON, Canada}
+      {Bachelor's in Computer Engineering (Innovation Stream)}{Sept. 2023 -- Apr. 2028 (Expected)}
+      \resumeItemListStart
+        \resumeItem{\textbf{3.50 GPA} $|$ \textbf{Smith Engineering, Dean's Scholar (2025, 2026)} $|$ \textbf{First Place - ECE Innovation Design Competition (2025)}}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd

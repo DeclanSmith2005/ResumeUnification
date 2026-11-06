@@ -1,0 +1,12 @@
+% Draft specialty component. Review proposed details before submitting.
+% REVIEW comments refer to REVIEW_NOTES.md and do not print in the PDF.
+\resumeProjectHeading
+      {\textbf{RITC Algorithmic Market Maker}}{Feb. 2026}
+      \resumeItemListStart
+        % SOURCE T07: Reframed from the supplied component.
+        \resumeItem{Researched and implemented \textbf{Python} market making and statistical arbitrage strategies for RITC, contributing to \textbf{6th globally} among \textbf{50+ university teams}.}
+        % REVIEW T08: Explicit calibration, inventory based quote adjustments, and analysis of spread capture versus fill probability are proposed. Confirm the actual quoting policy.
+        \resumeItem{Calibrated \textbf{EWMA} volatility estimates and inventory aware quote adjustments to balance spread capture with fill probability, achieving an \textbf{88\% fill rate} with neutral inventory.}
+        % REVIEW T09: Market data replay and parameter comparisons are proposed. Beta neutral arbitrage, volatility normalized z scores, and risk limits are retained from the current source.
+        \resumeItem{Built \textbf{beta neutral} mean reversion signals from volatility normalized z scores, replaying market data to compare entry thresholds, hedge ratios, and position limits.}
+      \resumeItemListEnd

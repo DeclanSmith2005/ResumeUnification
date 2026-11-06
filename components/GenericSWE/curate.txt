@@ -1,0 +1,8 @@
+\resumeProjectHeading
+      {\textbf{CurateAI} $|$ \href{https://main.d3dzs5ykzgbon2.amplifyapp.com/}{\underline{Link}}} {}
+      \resumeItemListStart
+        \resumeItem{Built a full stack web app to compare output from different LLMs 
+        (OpenAI, others) for higher confidence results.}
+        \resumeItem{Used \textbf{AWS} for scalable, serverless backend services and data 
+        management.}
+      \resumeItemListEnd

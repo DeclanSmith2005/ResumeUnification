@@ -1,0 +1,11 @@
+\resumeSubheading
+      {Scotiabank}{Toronto, ON, Canada}
+      {Software Engineering Intern, Velocity Program -- KYC Team, Wealth Services}{May 2025 -- Aug. 2025}
+      \resumeItemListStart
+        \resumeItem{Migrated REST API endpoints to a \textbf{Spring Boot} KYC application 
+        using \textbf{Git}, \textbf{Postman}, and \textbf{Maven}, reducing endpoint response 
+        time from \textbf{128}\,ms to \textbf{27}\,ms on average.}
+        \resumeItem{Debugged \textbf{50+} deprecated \textbf{Spring Framework JUnit} test 
+        cases for backend services managing \textbf{Oracle SQL} database logs with 
+        \textbf{Splunk} as part of \textbf{CI/CD} reliability testing.} 
+      \resumeItemListEnd

@@ -1,0 +1,6 @@
+\begin{center}
+    \textbf{\Huge \scshape Declan Smith} \\ \vspace{1pt}
+    \small (647) 505-8039 $|$ 
+    \href{mailto:write.declan.smith@gmail.com}{write.declan.smith@gmail.com} $|$
+    \href{https://linkedin.com/in/declan-smith-aa5263332}{LinkedIn\,{\scriptsize\faLink}}
+\end{center}

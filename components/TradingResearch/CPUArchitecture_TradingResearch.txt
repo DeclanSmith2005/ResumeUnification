@@ -1,0 +1,10 @@
+% Draft specialty component. Review proposed details before submitting.
+% REVIEW comments refer to REVIEW_NOTES.md and do not print in the PDF.
+\resumeProjectHeading
+      {\textbf{CPU Architecture}}{Mar. 2026 to May 2026}
+      \resumeItemListStart
+        % SOURCE T15: Reframed from the supplied component.
+        \resumeItem{Optimized a \textbf{Verilog RISC} data path to reduce instruction cost, cutting cycles per instruction by \textbf{15\%} and increasing maximum clock frequency by \textbf{10\,MHz}.}
+        % REVIEW T16: Instruction level testbenches, register and memory checks, and equivalence testing are proposed. This component is an alternate.
+        \resumeItem{Built instruction level testbenches to compare register and memory state against expected outputs, checking functional equivalence after timing and constant loading changes.}
+      \resumeItemListEnd

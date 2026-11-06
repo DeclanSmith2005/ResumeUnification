@@ -1,0 +1,7 @@
+\resumeSubheading
+      {Bright Bridge \textbar{} \textnormal{\href{https://brightbridgetutors.ca/}{\underline{Website}}}}{Toronto, ON, Canada}
+      {Software Engineer}{Oct. 2024 -- Aug. 2025}
+      \resumeItemListStart
+        \resumeItem{Queued Stripe payments with Cloud Tasks on Google Cloud Functions, cutting p95 API acknowledgement latency from \textbf{811 to 260\,ms (68\%)} at 50 requests/s in load tests; persisted payment status for completion tracking.}
+        \resumeItem{Added idempotency keys and retry handling to prevent duplicate charges; used Firebase transactions for atomic reservations, with \textbf{zero double bookings} in a 1,000-request same-slot contention test.}
+      \resumeItemListEnd

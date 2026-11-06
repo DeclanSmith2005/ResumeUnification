@@ -1,0 +1,8 @@
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: C++, C, Python, Java, SQL, Verilog, TypeScript} \\
+     \textbf{Performance / Systems}{: Linux, perf, Java Flight Recorder, cProfile, JMeter, EXPLAIN ANALYZE, ZeroMQ} \\
+     \textbf{Infrastructure}{: AWS, Google Cloud, Docker, PostgreSQL, Oracle SQL, Spring Boot, SQLAlchemy, Git}
+    }}
+ \end{itemize}

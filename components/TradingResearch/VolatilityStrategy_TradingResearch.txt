@@ -1,0 +1,12 @@
+% Draft specialty component. Review proposed details before submitting.
+% REVIEW comments refer to REVIEW_NOTES.md and do not print in the PDF.
+\resumeProjectHeading
+      {\textbf{Volatility Target Rebalancing Strategy}}{June 2026}
+      \resumeItemListStart
+        % REVIEW T10: Rolling realized volatility and estimated fund exposure changes are proposed signal inputs. Confirm the actual formula, data inputs, and rebalance timing.
+        \resumeItem{Developed an intraday \textbf{volatility targeting} signal using rolling realized volatility to estimate fund exposure changes and anticipate mechanical end of day rebalancing demand.}
+        % REVIEW T11: Python/pandas, lagged inputs, position sizing, cost modelling, and parameter sensitivity analysis are proposed. Confirm each item and distinguish completed analysis from planned extensions.
+        \resumeItem{Implemented a \textbf{Python/pandas} backtest with lagged signals and explicit position sizing, evaluating rebalance timing, transaction costs, and sensitivity to signal thresholds.}
+        % REVIEW T12: The original simulation metrics are retained, with drawdown expressed as a magnitude. Daily P&L, turnover, and regime analysis are proposed additions. These figures are not newly validated or assumed to include transaction costs or holdout testing.
+        \resumeItem{Evaluated a 12 month simulation with a \textbf{1.71 Sharpe}, \textbf{3.0\% CAGR}, and \textbf{1.4\% maximum drawdown}, analyzing daily P\&L, turnover, and performance across volatility regimes.}
+      \resumeItemListEnd

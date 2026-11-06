@@ -1,0 +1,7 @@
+\resumeSubheading
+      {Scotiabank}{Toronto, ON, Canada}
+      {Software Engineering Intern, Velocity Program}{May 2026 -- Aug. 2026}
+      \resumeItemListStart
+        \resumeItem{Led backend design and implementation for an intern team's Python/PostgreSQL onboarding service; used \textbf{cProfile} and \textbf{EXPLAIN ANALYZE} to batch SQLAlchemy lookups, reducing queries per progression update from \textbf{42 to 3}.}
+        \resumeItem{Replaced dependency rescans with topological ordering and cached task state, cutting p95 update latency from \textbf{180 to 45\,ms} on 500-task DAGs at 50 concurrent users; tested cycle rejection and prerequisite enforcement.}
+      \resumeItemListEnd

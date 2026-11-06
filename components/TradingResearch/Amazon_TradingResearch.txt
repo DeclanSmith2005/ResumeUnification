@@ -1,0 +1,11 @@
+% Draft specialty component. Review proposed details before submitting.
+% REVIEW comments refer to REVIEW_NOTES.md and do not print in the PDF.
+\resumeSubheading
+      {Amazon}{Toronto, ON, Canada}
+      {Software Development Engineer Intern, Amazon Kids}{Sept. 2026 to Dec. 2026}
+      \resumeItemListStart
+        % REVIEW T01: Explicit comparative benchmarking and diagnosis of serial bottlenecks are proposed. The implementation changes and latency figures are established.
+        \resumeItem{Benchmarked batched API retrieval and metadata caching to remove serial data access bottlenecks, cutting average content rendering latency from \textbf{490}\,ms to \textbf{200}\,ms (\textbf{59\%}).}
+        % REVIEW T02: Schema validation and deterministic error handling are proposed. Confirm the validation performed and error behavior; this remains Amazon content work, not trading work.
+        \resumeItem{Developing \textbf{GraphQL} and \textbf{Java Spring} data interfaces with schema validation and deterministic error handling for a planned Dec. 2026 launch to \textbf{50,000+ users}.}
+      \resumeItemListEnd

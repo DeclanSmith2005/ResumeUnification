@@ -1,0 +1,3 @@
+\resumeSubHeadingListEnd
+\vspace{2pt}
+\noindent\small{\textbf{Interests:} CSIA Level 1 ski instructor, NLS lifeguard, Muay Thai and Jiu Jitsu}

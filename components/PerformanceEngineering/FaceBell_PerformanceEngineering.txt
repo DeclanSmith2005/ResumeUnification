@@ -1,0 +1,6 @@
+\resumeProjectHeading
+      {\textbf{Face Bell Smart Doorbell} $|$ Python, OpenCV, AWS Rekognition}{Jan. 2025 -- Apr. 2025}
+      \resumeItemListStart
+        \resumeItem{Decoupled capture from AWS inference with a bounded queue that drops stale frames; timed capture-to-notification on the edge device, measuring \textbf{median latency below 200\,ms} across 500 motion events.}
+        \resumeItem{Filtered motion before cloud inference and tuned recognition thresholds on labeled clips, reducing false positives by \textbf{40\%} at unchanged recall. Won \textbf{1st place, ECE Innovation Design Competition}.}
+      \resumeItemListEnd

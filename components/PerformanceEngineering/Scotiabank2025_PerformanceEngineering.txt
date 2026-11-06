@@ -1,0 +1,7 @@
+\resumeSubheading
+      {Scotiabank}{Toronto, ON, Canada}
+      {Software Engineering Intern, Velocity Program, KYC Team}{May 2025 -- Aug. 2025}
+      \resumeItemListStart
+        \resumeItem{Traced Spring Boot requests to repeated Oracle SQL lookups; consolidated queries and indexed lookup keys, reducing mean endpoint latency from \textbf{128 to 27\,ms} in JMeter tests at 50 concurrent users.}
+        \resumeItem{Repaired \textbf{50+ JUnit tests} during the migration, validating response parity and database-log handling; correlated failures with Splunk traces to prevent functional regressions.}
+      \resumeItemListEnd

@@ -1,0 +1,10 @@
+% Draft specialty component. Review proposed details before submitting.
+% REVIEW comments refer to REVIEW_NOTES.md and do not print in the PDF.
+\resumeProjectHeading
+      {\textbf{Quackston Autonomous Vehicle}}{Jan. 2024 to Apr. 2024}
+      \resumeItemListStart
+        % REVIEW T13: The graph representation and binary min heap are proposed. The algorithm, telemetry, and latency are established. This component is an alternate.
+        \resumeItem{Implemented \textbf{Dijkstra's} over a weighted graph with a binary min heap, converting vehicle telemetry into route decisions with recalculation latency below \textbf{5\,ms} under load.}
+        % REVIEW T14: Telemetry replay, expected path comparisons, and reproducible failure cases are proposed. Confirm whether such an evaluation harness existed.
+        \resumeItem{Replayed \textbf{ZMQ} telemetry through a \textbf{VPS} backend to compare routing decisions against expected paths and reproduce failures under changing vehicle coordinates.}
+      \resumeItemListEnd

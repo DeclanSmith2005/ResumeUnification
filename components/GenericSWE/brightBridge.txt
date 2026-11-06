@@ -1,0 +1,17 @@
+\resumeSubheading
+      {Bright Bridge \textbar{} \textnormal{\href{https://brightbridgetutors.ca/}{\underline{link}}}}{Toronto, ON, Canada}
+      {Software Engineer}{Oct. 2024 -- Aug 2025}
+      \resumeItemListStart
+        \resumeItem{Led development of a full stack web application to facilitate an 
+        intuitive tutoring experience.}
+        \resumeItem{Built \textbf{40+ Express.js} API endpoints for a scalable serverless 
+        backend with \textbf{Google Cloud Functions / Cloud Console}, featuring \textbf{CSRF}
+         protection, rate limiting, and comprehensive error handling.}
+        \resumeItem{Developed \textbf{React.js} frontend for an intuitive and visually 
+        appealing \textbf{UI/UX}.}
+        \resumeItem{\textbf{Firebase Auth} and the \textbf{Stripe CLI} were used to ensure 
+        user privacy and safe, secure payment processing.}
+        \resumeItem{Developed a booking system with race condition prevention using \textbf
+        {Firebase Transactions}, and optimistic locking to safely handle concurrent 
+        reservations.}
+      \resumeItemListEnd

@@ -1,0 +1,11 @@
+\resumeProjectHeading
+      {\textbf{Quackston Autonomous Vehicle}}{Jan. 2024 -- Apr. 2024}
+      \resumeItemListStart
+        \resumeItem{Engineered a navigation engine for an autonomous vehicle featuring a 
+        custom \textbf{Dijkstra's} pathfinding algorithm, optimizing route calculation for 
+        mock taxi fares.}
+        \resumeItem{Integrated real time telemetry with a \textbf{VPS} backend via a 
+        \textbf{ZMQ} web socket, implementing off node coordinate tracking for \textbf{1ms} 
+        synchronization and path recalculations with \textbf{\textless{} 5ms latency} under 
+        load.}
+      \resumeItemListEnd

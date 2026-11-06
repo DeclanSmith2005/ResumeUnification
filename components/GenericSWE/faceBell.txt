@@ -1,0 +1,10 @@
+\resumeProjectHeading
+      {\textbf{Face Bell Smart Doorbell}}{Jan. 2025 -- Apr. 2025}
+      \resumeItemListStart
+        \resumeItem{Placed \textbf{1st in the ECE Innovation Design Competition} by building 
+        an IoT doorbell using edge computing with \textbf{AWS} cloud services for live 
+        security monitoring.}
+        \resumeItem{Deployed \textbf{AWS Rekognition} for facial analysis, reducing false 
+        positive detections by \textbf{40\%} and achieving a sub \textbf{200ms} stream to 
+        notification latency.}
+      \resumeItemListEnd
