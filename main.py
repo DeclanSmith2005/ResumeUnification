@@ -23,14 +23,14 @@ VARIANTS = {
         "folder": "PerformanceEngineering",
         "experience": (
             "Amazon_PerformanceEngineering",
-            "Scotiabank2026_PerformanceEngineering",
-            "Scotiabank2025_PerformanceEngineering",
+            "scotiabank2026",
+            "scotiabank2025Performance",
             "BrightBridge_PerformanceEngineering",
         ),
         "projects": (
             "FaceBell_PerformanceEngineering",
-            "Quackston_PerformanceEngineering",
-            "CPUArchitecture_PerformanceEngineering",
+            "QuackstonVehicle",
+            "RITC_TradingResearch",
         ),
     },
     "swe": {

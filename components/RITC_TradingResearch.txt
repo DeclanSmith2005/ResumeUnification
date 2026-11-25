@@ -1,7 +1,7 @@
 % Draft specialty component. Review proposed details before submitting.
 % REVIEW comments refer to REVIEW_NOTES.md and do not print in the PDF.
 \resumeProjectHeading
-      {\textbf{RITC Algorithmic Market Maker}}{Feb. 2026}
+      {\textbf{RITC Algorithmic Market Maker}}{}
       \resumeItemListStart
         % SOURCE T07: Reframed from the supplied component.
         \resumeItem{Researched and implemented \textbf{Python} market making and statistical arbitrage strategies for RITC, contributing to \textbf{6th globally} among \textbf{50+ university teams}.}

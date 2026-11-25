@@ -1,5 +1,5 @@
 \resumeProjectHeading
-      {\textbf{Quackston Autonomous Vehicle}}{Jan. 2024 -- Apr. 2024}
+      {\textbf{Quackston Autonomous Vehicle}}{}
       \resumeItemListStart
         \resumeItem{Engineered a navigation engine for an autonomous vehicle featuring a 
         custom \textbf{Dijkstra's} pathfinding algorithm, optimizing route calculation for 
